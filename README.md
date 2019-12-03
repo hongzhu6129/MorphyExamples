@@ -1,4 +1,5 @@
-# MorphyExamples
+# Morphy Examples
+
 This repository contains the folowing examples of Morphy test specifications and experiment data. 
 
 SinTest.java -- Morphy test specification for testing trogonometric function sin(x). 
@@ -42,6 +43,8 @@ Face Recognition case study -- The files are in the FaceRegnition folder. It con
 -- TwoImageRandomTesting.java : test specification of test case generation and test result analysis
 
 -- SeetaFace.rar : compressed file of a packages to run face recognition applications
+
+# The Morphy Testing Tool
 
 You can also download the tool here. The following two files are needed:
 
