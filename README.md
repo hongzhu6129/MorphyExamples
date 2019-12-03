@@ -40,3 +40,5 @@ Face Recognition case study : It contains the following files:
 -- TwoImageDatamorphsims.java : test specification of datamorphisms for testing face recognition
 
 -- TwoImageRandomTesting.java : test specification of test case generation and test result analysis
+
+-- SeetaFace.rar : compressed file of a packages to run face recognition applications
