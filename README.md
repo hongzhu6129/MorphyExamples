@@ -45,4 +45,7 @@ Face Recognition case study -- The files are in the FaceRegnition folder. It con
 
 You can also download the tool here. The following two files are needed:
 
-Morphy.jar -- the testing tool to execute test specifications
+-- Morphy.jar : the testing tool to execute test specifications. It is executable. 
+
+-- MorphyAnnotations.jar : the java package to develop test specification. You should download the package to you IDE and put the this package in your build path. 
+
