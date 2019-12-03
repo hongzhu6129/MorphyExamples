@@ -42,3 +42,7 @@ Face Recognition case study -- The files are in the FaceRegnition folder. It con
 -- TwoImageRandomTesting.java : test specification of test case generation and test result analysis
 
 -- SeetaFace.rar : compressed file of a packages to run face recognition applications
+
+You can also download the tool here. The following two files are needed:
+
+Morphy.jar -- the testing tool to execute test specifications
