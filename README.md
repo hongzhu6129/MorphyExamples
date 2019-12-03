@@ -3,7 +3,7 @@ This repository contains the folowing examples of Morphy test specifications and
 
 SinTest.java -- Morphy test specification for testing trogonometric function sin(x). 
 
-Triangle classification case study -- It contains the following files:
+Triangle classification case study -- The files are in the TriangleClassification folder. It contains the following files:
 
 -- Triangle.java : the input class to the triangle classification test case
 
@@ -15,7 +15,7 @@ Triangle classification case study -- It contains the following files:
 
 -- TriangleTest1.java, TriangleTest2.java, TraingleTest3.java and TriangleTest4.java : test specification files that contain test executers for invoking the corresponding triangle classification classes. 
 
-Trigonometric function case study -- It contains the following files: 
+Trigonometric function case study -- The files are in the Trigonometric Folder. It contains the following files: 
 
 -- Trigonometrics.java : the output calsss of test cases;
 
@@ -23,7 +23,7 @@ Trigonometric function case study -- It contains the following files:
 
 -- VisualizeTrignometricalFunctions.java : A class that implements the visualisation of the test results. 
 
-Face Recognition case study : It contains the following files: 
+Face Recognition case study -- The files are in the FaceRegnition folder. It contains the following files: 
 
 -- FaceRecBaiduTest.java : Test specification for testing Baidu.com
 
