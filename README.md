@@ -22,3 +22,21 @@ Trigonometric function case study -- It contains the following files:
 -- TrigonometricTest.java : the test specification;
 
 -- VisualizeTrignometricalFunctions.java : A class that implements the visualisation of the test results. 
+
+Face Recognition case study : It contains the following files: 
+
+-- FaceRecBaiduTest.java : Test specification for testing Baidu.com
+
+-- FaceRecFacePlusTest.java : Test specification for testing Faceplus.com
+
+-- FaceRecSeetaFaceTest.java : Test specification for testing SeetaFace;
+
+-- FaceRecTencentTest.java : Test specification for tetsing Tencent.com
+
+-- TwoImage.java : The input class of test cases
+
+-- ImageConfig.java : configuration file to set the paths to the images used as the test data
+
+-- TwoImageDatamorphsims.java : test specification of datamorphisms for testing face recognition
+
+-- TwoImageRandomTesting.java : test specification of test case generation and test result analysis
