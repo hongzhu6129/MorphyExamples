@@ -53,20 +53,32 @@ You can also download the tool here. The following two files are needed:
 -- MorphyAnnotations.jar : the java package to develop test specification. You should download the package to you IDE and put the this package in your build path. 
 
 # Installation of Morphy 
--- Download Morphy.jar file;
+-- Download Morphy.jar file
+
 -- Download the folder icones
+
 -- Create a folder, e.g. Morphy on you machine, say on C drive at the root direcotory C:/. This is the installation folder. 
+
 -- Copy Morphy.jar to the installation folder
+
 -- Copy the icons folder to the installation fold. 
+
 -- Create a batch file with the following two lines:
+
 cd C:/Morphy 
+
 java -jar Morphy.jar
 
 # Start Morphy Tool
+
 Double click on the Morphy batch file.
+
 Or, open a CMD window and type the following lines of command:
+
 cd C:/Morphy
+
 java -jar Morphy
+
 
 The GUI of the Morphy tool will apprea on your screen. 
 
